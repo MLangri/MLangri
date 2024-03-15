@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MLangri
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning html,php 
+- 🌱 I’m currently learning html,php, js, mobile app dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me debra.langri@strathmore.edu
 
